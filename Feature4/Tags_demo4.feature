@@ -48,4 +48,5 @@ Examples:
 |DD Card|
 |Bank Transfer|
 |PayPal|
-|wallet|
+|wallet
+|Cash on Delivery|
